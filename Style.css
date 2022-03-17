@@ -1,0 +1,12 @@
+body{
+    background-color: lime;
+}
+.heading{
+    font-size: 20px;
+    width: 80%;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
